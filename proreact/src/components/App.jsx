@@ -12,7 +12,7 @@ const App = () => {
       <h1>hola</h1>
       <p>{valor}</p>
       <input type="text" />
-  
+  <ItemListContainer  greeting="Bienvenidos a mi pagina"/>
     </div>
   );
 }
